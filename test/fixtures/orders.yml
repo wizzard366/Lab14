@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  code: MyText
+  order_date: 2012-03-20 18:38:58
+  customer_id: 1
+  order_total: 9.99
+
+two:
+  code: MyText
+  order_date: 2012-03-20 18:38:58
+  customer_id: 1
+  order_total: 9.99
